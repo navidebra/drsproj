@@ -23,7 +23,7 @@
 * flask
 
 ## Project Description <a name="ProjectDescription"></a>
-Appen or previously named Figure Eight Data Set: provides thousands of labeled messages. These messages are sorted into specific categories such as Water, Medical-Aid, Aid-Related, that are specifically aimed at helping emergency personnel in their efforts.
+Appen or previously named Figure Eight Data Set: provides thousands of labeled messages. These messages are sorted into specific categories such as Food, Medical-Aid, Aid-Related, and etc. that are specifically aimed at helping emergency personnel in their efforts.
 
 The main goal of this project is to build an web app that can help emergency personnel analyze incoming messages and sort them into specific categories to speed up the aid and be more efficient to be able to help more people in need.
 
