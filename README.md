@@ -1,4 +1,4 @@
-# Disaster Response Message Classification Pipelines
+# Disaster Response System Pipeline
 
 ### Table of Contents
 
