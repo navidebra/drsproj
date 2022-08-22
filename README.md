@@ -5,9 +5,7 @@
 1. [Libraries](#Libraries)
 2. [Project Description](#ProjectDescription)
 3. [File Description](#FileDescription)
-4. [Analysis](#Analysis)
 5. [Results](#Results)
-6. [Future Improvements](#FutureImprovements)
 7. [Licensing, Authors, and Acknowledgements](#Licensing)
 8. [Instructions](#Instructions)
 
