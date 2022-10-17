@@ -16,7 +16,6 @@
 * sqlalchemy
 * re
 * plotly
-* NLTK
 * pickle
 * NLTK [punkt, wordnet, stopwords]
 * sklearn
